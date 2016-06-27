@@ -37,5 +37,9 @@ C:\path\file...
 
 Once you have the right target, you can hit the run button (the play button), and the fields should populate. It is that simple. 
 
+Instaling Selenium IDE
+Software can be found at the following website. Instructions on how to install are also included on the site. 
+http://www.seleniumhq.org/download/#selenium_ide
+
 
 Created by James Kelly, Dina Murdukhovich
